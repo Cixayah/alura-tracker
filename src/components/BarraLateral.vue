@@ -1,7 +1,7 @@
 <template>
     <header>
         <h1>
-            <img src="../assets/logo.png">
+            <img src="../assets/logo.png" style="border-radius: 20px;">
         </h1>
     </header>
 </template>
